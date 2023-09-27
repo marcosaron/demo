@@ -1,14 +1,42 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+	{
+		"text": "malesuada malesuada. Integer id magna et ipsum cursus vestibulum. Mauris magna. Duis dignissim",
+		"name": "Tatyana Wilson"
+	},
+	{
+		"text": "augue ac ipsum. Phasellus vitae mauris sit amet lorem semper auctor. Mauris vel",
+		"name": "Lee Weaver"
+	},
+	{
+		"text": "posuere vulputate, lacus. Cras interdum. Nunc sollicitudin commodo ipsum. Suspendisse non leo. Vivamus",
+		"name": "Ronan Wilson"
+	},
+	{
+		"text": "nisl. Nulla eu neque pellentesque massa lobortis ultrices. Vivamus rhoncus. Donec est. Nunc",
+		"name": "Aladdin Brewer"
+	},
+	{
+		"text": "magna a neque. Nullam ut nisi a odio semper cursus. Integer mollis. Integer",
+		"name": "Winter Valenzuela"
+	},
+	{
+		"text": "eget ipsum. Suspendisse sagittis. Nullam vitae diam. Proin dolor. Nulla semper tellus id",
+		"name": "Phelan Mclaughlin"
+	},
+	{
+		"text": "venenatis lacus. Etiam bibendum fermentum metus. Aenean sed pede nec ante blandit viverra.",
+		"name": "Evelyn Singleton"
+	},
+	{
+		"text": "nisl sem, consequat nec, mollis vitae, posuere at, velit. Cras lorem lorem, luctus",
+		"name": "Zane Snider"
+	},
+	{
+		"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam laoreet, libero et tristique",
+		"name": "Clayton Huber"
+	},
+	{
+		"text": "risus. Donec nibh enim, gravida sit amet, dapibus id, blandit at, nisi. Cum",
+		"name": "Ivory Lopez"
+	}
+]
